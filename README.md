@@ -5,6 +5,7 @@
 + Generated datasets of different scales from synthetic models and real-world databases to carry out simulations. Results exhibit an average 15% higher propagation efficiency in evolving models than non-evolving models
 
 ![](./draw/results.png)
+
 ---
 Datasets of location based online social networks are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html):
 
