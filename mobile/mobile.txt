@@ -1,0 +1,446 @@
+ba2500	co=10	i=3	time=1157
+bkst2500	co=10	i=3	time=1637
+bkst2500	co=8	i=3	time=1121
+bkem2500	co=10	i=3	time=1336
+gwem2500	co=10	i=3	time=1484
+gwst2500	co=10	i=3	time=1777
+bkst2500	co=6	i=3	time=1088
+gwst2500	co=8	i=3	time=1152
+gwem2500	co=8	i=3	time=1019
+bkem2500	co=8	i=3	time=1006
+bkst2500	co=4	i=3	time=1081
+ba2500	co=8	i=3	time=1000
+gwst2500	co=6	i=3	time=1121
+gwem2500	co=6	i=3	time=991
+bkst2500	co=2	i=3	time=1181
+bkem2500	co=6	i=3	time=963
+bkst3000	co=10	i=3	time=1478
+gwst2500	co=4	i=3	time=1101
+bkst3000	co=8	i=3	time=1198
+gwem2500	co=4	i=3	time=988
+gwst2500	co=2	i=3	time=1159
+bkst3000	co=6	i=3	time=1133
+gwst3000	co=10	i=3	time=1560
+ba2500	co=6	i=3	time=925
+gwst3000	co=8	i=3	time=1266
+bkem2500	co=4	i=3	time=965
+gwem2500	co=2	i=3	time=1051
+gwem3000	co=10	i=3	time=1354
+bkst3000	co=4	i=3	time=1163
+gwst3000	co=6	i=3	time=1214
+bkem2500	co=2	i=3	time=1047
+ba2500	co=4	i=3	time=932
+bkem3000	co=10	i=3	time=1284
+gwem3000	co=8	i=3	time=1121
+bkst3000	co=2	i=3	time=1274
+em2500small	co=10	i=3	time=613
+bkst3500	co=10	i=3	time=1491
+gwst3000	co=4	i=3	time=1223
+bkst3500	co=8	i=3	time=1354
+bkem3000	co=8	i=3	time=1092
+bkst3500	co=6	i=3	time=1270
+gwst3000	co=2	i=3	time=1257
+ba2500	co=2	i=3	time=996
+gwst3500	co=10	i=3	time=1510
+ba3000	co=10	i=3	time=1265
+gwem3000	co=6	i=3	time=1075
+gwst3500	co=8	i=3	time=1336
+bkst3500	co=4	i=3	time=1295
+gwst3500	co=6	i=3	time=1272
+ba3000	co=8	i=3	time=1088
+bkst3500	co=2	i=3	time=1354
+bkem3000	co=6	i=3	time=1043
+bkst4000	co=10	i=3	time=1620
+gwst3500	co=4	i=3	time=1334
+gwem3000	co=4	i=3	time=1089
+bkst4000	co=8	i=3	time=1446
+em3000small	co=10	i=3	time=800
+ba3000	co=6	i=3	time=1074
+bkst4000	co=6	i=3	time=1374
+gwst3500	co=2	i=3	time=1426
+gwst4000	co=10	i=3	time=1593
+gwst4000	co=8	i=3	time=1492
+bkem3000	co=4	i=3	time=1054
+gwem3000	co=2	i=3	time=1137
+gwem3500	co=10	i=3	time=1424
+ba3000	co=4	i=3	time=1090
+bkst4000	co=4	i=3	time=1471
+gwst4000	co=6	i=3	time=1410
+em4500small	co=10	i=3	time=775
+gwem3500	co=8	i=3	time=1196
+gwst4000	co=4	i=3	time=1410
+bkst4000	co=2	i=3	time=1502
+bkem3000	co=2	i=3	time=1071
+em3500small	co=10	i=3	time=1100
+bkst4500	co=10	i=3	time=1721
+ba3000	co=2	i=3	time=1134
+bkem3500	co=10	i=3	time=1408
+ba3500	co=10	i=3	time=1302
+bkst4500	co=8	i=3	time=1603
+em2500small	co=8	i=3	time=812
+ba3500	co=8	i=3	time=1264
+gwst4000	co=2	i=3	time=1541
+em4000small	co=10	i=3	time=1439
+em5000small	co=10	i=3	time=1190
+em4000small	co=8	i=3	time=920
+
+em4000small	co=6	i=3	time=624
+
+em3500small	co=10	i=3	time=1523
+
+em3500small	co=10.2	i=3	time=1625
+
+em3500small	co=10.4	i=3	time=1752
+
+em3500small	co=10.7	i=3	time=2141
+
+em4500small	co=10.5	i=3	time=1860
+
+em3500small	co=11	i=3	time=2401
+
+em4500small	co=11	i=3	time=2053
+
+em4500small	co=11.5	i=3	time=2712
+
+gwst2500	co=10	i=2	time=1795
+gwst2500	co=10	i=1	time=2054
+
+gwst2500	co=8	i=2	time=1247
+gwem2500	co=10	i=2	time=1528
+gwst2500	co=8	i=1	time=1457
+
+gwem2500	co=10	i=1	time=2077
+
+bkem2500	co=10	i=2	time=1425
+gwst2500	co=6	i=2	time=1183
+gwem2500	co=8	i=2	time=1106
+gwst2500	co=6	i=1	time=1357
+
+gwem2500	co=8	i=1	time=1309
+
+bkem2500	co=10	i=1	time=2160
+
+bkst2500	co=10	i=2	time=1678
+bkem2500	co=8	i=2	time=1069
+bkst2500	co=10	i=1	time=2090
+
+ba2500	co=10	i=2	time=1246
+gwem2500	co=6	i=2	time=1044
+bkem2500	co=8	i=1	time=1282
+
+bkst2500	co=8	i=2	time=1241
+gwem2500	co=6	i=1	time=1224
+
+ba2500	co=10	i=1	time=2343
+
+gwst2500	co=4	i=2	time=1225
+bkst2500	co=8	i=1	time=1443
+
+ba2500	co=8	i=2	time=1051
+bkem2500	co=6	i=2	time=1025
+gwst2500	co=4	i=1	time=1434
+
+bkst2500	co=6	i=2	time=1160
+ba2500	co=8	i=1	time=1445
+
+bkem2500	co=6	i=1	time=1182
+
+bkst2500	co=6	i=1	time=1326
+
+gwem2500	co=4	i=2	time=1057
+ba2500	co=6	i=2	time=1011
+gwem2500	co=4	i=1	time=1220
+
+ba2500	co=6	i=1	time=1170
+
+bkst2500	co=4	i=2	time=1166
+gwst2500	co=2	i=2	time=1308
+bkst2500	co=4	i=1	time=1358
+
+bkem2500	co=4	i=2	time=1053
+bkem2500	co=4	i=1	time=1179
+
+gwst2500	co=2	i=1	time=1682
+
+ba2500	co=4	i=2	time=1031
+gwst3000	co=10	i=2	time=1641
+ba2500	co=4	i=1	time=1143
+
+bkst2500	co=2	i=2	time=1317
+gwem2500	co=2	i=2	time=1166
+gwst3000	co=10	i=1	time=2086
+
+bkst2500	co=2	i=1	time=1549
+
+gwem2500	co=2	i=1	time=1348
+
+gwst3000	co=8	i=2	time=1356
+bkst3000	co=10	i=2	time=1509
+gwem3000	co=10	i=2	time=1415
+gwst3000	co=8	i=1	time=1591
+
+bkst3000	co=10	i=1	time=2179
+
+gwem3000	co=10	i=1	time=2272
+
+bkem2500	co=2	i=2	time=1146
+ba2500	co=2	i=2	time=1142
+bkst3000	co=8	i=2	time=1300
+bkem2500	co=2	i=1	time=1391
+
+gwst3000	co=6	i=2	time=1312
+bkst3000	co=8	i=1	time=1540
+
+ba2500	co=2	i=1	time=1219
+
+bkem3000	co=10	i=2	time=1377
+gwem3000	co=8	i=2	time=1186
+gwst3000	co=6	i=1	time=1502
+
+gwem3000	co=8	i=1	time=1409
+
+bkem3000	co=10	i=1	time=2272
+
+ba3000	co=10	i=2	time=1322
+bkst3000	co=6	i=2	time=1252
+ba3000	co=10	i=1	time=2646
+
+bkst3000	co=6	i=1	time=1447
+
+bkem3000	co=8	i=2	time=1186
+em2500small	co=10	i=2	time=1139
+ba3000	co=8	i=2	time=1192
+bkem3000	co=8	i=1	time=1418
+
+em2500small	co=10	i=1	time=2442
+
+ba3000	co=8	i=1	time=1530
+
+gwst3000	co=4	i=2	time=1334
+gwem3000	co=6	i=2	time=1137
+bkst3000	co=4	i=2	time=1244
+gwst3000	co=4	i=1	time=1546
+
+gwem3000	co=6	i=1	time=1315
+
+bkst3000	co=4	i=1	time=1474
+
+ba3000	co=6	i=2	time=1170
+ba3000	co=6	i=1	time=1318
+
+bkem3000	co=6	i=2	time=1155
+bkem3000	co=6	i=1	time=1314
+
+bkst3000	co=2	i=2	time=1393
+bkst3000	co=2	i=1	time=1668
+
+gwst3000	co=2	i=2	time=1477
+bkst3500	co=10	i=2	time=1609
+gwst3000	co=2	i=1	time=1737
+
+gwem3000	co=4	i=2	time=1180
+bkst3500	co=10	i=1	time=2170
+
+gwst3500	co=10	i=2	time=1636
+gwem3000	co=4	i=1	time=1340
+
+gwst3500	co=10	i=1	time=2088
+
+bkst3500	co=8	i=2	time=1439
+bkst3500	co=8	i=1	time=1692
+
+gwst3500	co=8	i=2	time=1481
+ba3000	co=4	i=2	time=1186
+ba3000	co=4	i=1	time=1327
+
+gwem3000	co=2	i=2	time=1242
+gwem3000	co=2	i=1	time=1471
+
+gwem3500	co=10	i=2	time=1505
+gwem3500	co=10	i=1	time=2243
+
+gwem3500	co=8	i=2	time=1357
+gwem3500	co=8	i=1	time=1564
+
+gwem3500	co=6	i=2	time=1317
+gwem3500	co=6	i=1	time=1473
+
+gwem3500	co=4	i=2	time=1314
+gwem3500	co=4	i=1	time=1501
+
+em4500small	co=12	i=3	time=3279
+
+gwem3500	co=2	i=2	time=1409
+gwem3500	co=2	i=1	time=1641
+
+gwem4000	co=10	i=2	time=1611
+gwem4000	co=10	i=1	time=2298
+
+gwem4000	co=8	i=2	time=1485
+gwem4000	co=8	i=1	time=1728
+
+gwem4000	co=6	i=2	time=1457
+gwem4000	co=6	i=1	time=1641
+
+gwem4000	co=4	i=2	time=1451
+gwem4000	co=4	i=1	time=1655
+
+em4500small	co=12.5	i=3	time=3555
+
+gwem4000	co=2	i=2	time=1564
+gwem4000	co=2	i=1	time=1837
+
+gwem4500	co=10	i=2	time=1727
+gwem4500	co=10	i=1	time=2252
+
+gwem4500	co=8	i=2	time=1617
+gwem4500	co=8	i=1	time=1860
+
+em4500small	co=13	i=3	time=3856
+
+gwem4500	co=6	i=2	time=1578
+gwem4500	co=6	i=1	time=1833
+
+gwem4500	co=4	i=2	time=1603
+gwem4500	co=4	i=1	time=1867
+
+em5000small	co=8	i=3	time=1213
+
+gwem4500	co=2	i=2	time=1697
+gwem4500	co=2	i=1	time=1984
+
+gwem5000	co=10	i=2	time=1868
+gwem5000	co=10	i=1	time=2284
+
+gwem5000	co=8	i=2	time=1750
+gwem5000	co=8	i=1	time=2009
+
+gwem5000	co=6	i=2	time=1732
+gwem5000	co=6	i=1	time=1969
+
+gwem5000	co=4	i=2	time=1763
+gwem5000	co=4	i=1	time=1998
+
+em4000small	co=8.3	i=3	time=871
+
+gwem5000	co=2	i=2	time=1919
+gwem5000	co=2	i=1	time=2191
+
+em4000small	co=8.3	i=3	time=1479
+
+em4000small	co=8.6	i=3	time=1480
+
+em4000small	co=8.6	i=3	time=1138
+
+em4000small	co=8.9	i=3	time=1530
+
+em4000small	co=9.2	i=3	time=1531
+
+em4000small	co=9.5	i=3	time=1559
+
+gwem2500	co=12	i=1	time=2485
+
+gwem2500	co=11	i=1	time=2357
+
+gwem2500	co=10	i=1	time=2091
+
+gwem2500	co=12	i=1	time=2479
+gwem2500	co=11	i=1	time=2376
+gwem2500	co=10	i=1	time=2080
+gwem2500	co=9	i=1	time=1619
+gwem2500	co=8	i=1	time=1315
+gwem3000	co=12	i=1	time=2915
+gwem3000	co=11	i=1	time=2680
+gwem3000	co=10	i=1	time=2286
+gwem3000	co=9	i=1	time=1585
+gwem3000	co=8	i=1	time=1389
+gwem3500	co=12	i=1	time=3291
+gwem3500	co=11	i=1	time=2898
+gwem3500	co=10	i=1	time=2307
+gwem3500	co=9	i=1	time=1654
+gwem3500	co=8	i=1	time=1544
+gwem4000	co=12	i=1	time=3648
+gwem4000	co=11	i=1	time=3197
+gwem4000	co=10	i=1	time=2286
+gwem4000	co=9	i=1	time=1821
+gwem4000	co=8	i=1	time=1725
+gwem4500	co=12	i=1	time=3984
+gwem4500	co=11	i=1	time=3377
+gwem4500	co=10	i=1	time=2253
+gwem4500	co=9	i=1	time=1966
+gwem4500	co=8	i=1	time=1883
+gwem5000	co=12	i=1	time=4178
+gwem5000	co=11	i=1	time=3284
+gwem5000	co=10	i=1	time=2325
+gwem5000	co=9	i=1	time=2087
+gwem5000	co=8	i=1	time=2030
+em4000small	co=8.4	i=3	time=1148
+
+em4000small	co=9.7	i=3	time=1569
+
+em4000small	co=8.9	i=3	time=1352
+
+em4000small	co=9.2	i=3	time=914
+
+em4000small	co=9.5	i=3	time=505
+
+em4000small	co=8.5	i=3	time=1182
+
+em4000small	co=9.7	i=3	time=790
+
+ba2500	co=7	i=2	time=1054
+
+ba2500	co=8	i=2	time=1051
+
+ba2500	co=9	i=2	time=1099
+
+ba2500	co=10	i=2	time=1255
+
+ba3000	co=10	i=2	time=1355
+
+ba2500	co=11	i=2	time=1813
+
+ba3000	co=10.2	i=2	time=1402
+
+ba3000	co=10.4	i=2	time=1460
+
+ba3000	co=10.6	i=2	time=1474
+
+ba3000	co=10.8	i=2	time=1582
+
+ba3000	co=11	i=2	time=1688
+
+em4000small	co=11.2	i=2	time=1646
+
+em4000small	co=11.4	i=2	time=1693
+
+em4000small	co=11.6	i=2	time=1747
+
+em4000small	co=11.8	i=2	time=1812
+
+ba3000	co=10.65	i=2	time=1479
+
+ba3000	co=10.7	i=2	time=1516
+
+ba3000	co=10.75	i=2	time=1529
+
+em4500small	co=9	i=3	time=941
+
+em4500small	co=10	i=3	time=1669
+
+em4500small	co=8	i=3	time=975
+
+em4500small	co=9.6	i=3	time=864
+
+em4500small	co=10.5	i=3	time=1608
+
+em4500small	co=9.4	i=3	time=1584
+
+em4500small	co=9.2	i=3	time=1603
+
+em4500small	co=9.8	i=3	time=1555
+
+em4500small	co=9.5	i=3	time=894
+
+em4500small	co=9.3	i=3	time=1154
+

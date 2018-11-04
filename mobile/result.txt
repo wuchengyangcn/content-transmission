@@ -1,0 +1,170 @@
+gwem2500	co=9.25	i=1	time=1766
+gwem3000	co=9.6	i=1	time=1988
+gwem3500	co=9.85	i=1	time=2203
+gwem4000	co=9.95	i=1	time=2340
+gwem4500	co=10.05	i=1	time=2449
+gwem5000	co=10.1	i=1	time=2502
+
+gwst2500	co=9.6	i=1	time=1840
+gwst3000	co=10	i=1	time=2126
+gwst3500	co=10.35	i=1	time=2391
+gwst4000	co=10.6	i=1	time=2579
+gwst4500	co=10.85	i=1	time=2762
+gwst5000	co=10.85	i=1	time=2845
+
+em2500small	co=6	i=3	time=259
+em2500small	co=7	i=3	time=271
+em2500small	co=8	i=3	time=284
+em2500small	co=9	i=3	time=289
+em2500small	co=10	i=3	time=319
+em2500small	co=12	i=3	time=509
+em2500small	co=11	i=3	time=429
+em2500small	co=10	i=3	time=328
+em2500small	co=9	i=3	time=280
+em2500small	co=8	i=3	time=291
+em2500small	co=12	i=3	time=506
+em2500small	co=11	i=3	time=422
+em2500small	co=10	i=3	time=325
+em2500small	co=9	i=3	time=288
+em2500small	co=8	i=3	time=287
+
+em2500small	co=12	i=2	time=2093
+em2500small	co=11	i=2	time=1652
+em2500small	co=10	i=2	time=1122
+em2500small	co=9	i=2	time=1011
+em2500small	co=8	i=2	time=985
+
+em2500small	co=12	i=1	time=2487
+em2500small	co=11	i=1	time=2487
+em2500small	co=10	i=1	time=2435
+em2500small	co=9	i=1	time=2211
+em2500small	co=8	i=1	time=1707
+
+em3000small	co=9	i=3	time=487
+em3000small	co=10	i=3	time=506
+em3000small	co=6	i=3	time=430
+em3000small	co=12	i=3	time=792
+em3000small	co=11	i=3	time=583
+em3000small	co=10	i=3	time=496
+em3000small	co=8	i=3	time=441
+em3000small	co=12	i=3	time=817
+em3000small	co=11	i=3	time=583
+em3000small	co=10	i=3	time=498
+em3000small	co=9	i=3	time=470
+em3000small	co=8	i=3	time=444
+
+em3000small	co=12	i=2	time=2194
+em3000small	co=11	i=2	time=1447
+em3000small	co=10	i=2	time=1246
+em3000small	co=9	i=2	time=1149
+em3000small	co=8	i=2	time=1149
+
+em3000small	co=12	i=1	time=2986
+em3000small	co=11	i=1	time=2978
+em3000small	co=10	i=1	time=2830
+em3000small	co=9	i=1	time=2465
+em3000small	co=8	i=1	time=1689
+
+em3500small	co=12	i=3	time=1056
+em3500small	co=11	i=3	time=761
+em3500small	co=10	i=3	time=703
+em3500small	co=9	i=3	time=654
+em3500small	co=8	i=3	time=655
+em3500small	co=12	i=3	time=1034
+em3500small	co=11	i=3	time=777
+em3500small	co=10	i=3	time=709
+em3500small	co=9	i=3	time=663
+em3500small	co=8	i=3	time=629
+
+em3500small	co=12	i=2	time=2134
+em3500small	co=11	i=2	time=1516
+em3500small	co=10	i=2	time=1402
+em3500small	co=9	i=2	time=1345
+em3500small	co=8	i=2	time=1302
+
+em3500small	co=12	i=1	time=3492
+em3500small	co=11	i=1	time=3428
+em3500small	co=10	i=1	time=3176
+em3500small	co=9	i=1	time=2657
+em3500small	co=8	i=1	time=1791
+
+em4000small	co=12	i=3	time=816
+em4000small	co=11	i=3	time=708
+em4000small	co=10	i=3	time=680
+em4000small	co=9	i=3	time=644
+em4000small	co=8	i=3	time=613
+em4000small	co=12	i=3	time=820
+em4000small	co=11	i=3	time=690
+em4000small	co=10	i=3	time=653
+em4000small	co=9	i=3	time=623
+em4000small	co=8	i=3	time=626
+
+em4000small	co=12	i=2	time=1886
+em4000small	co=11	i=2	time=1603
+em4000small	co=10	i=2	time=1527
+em4000small	co=9	i=2	time=1487
+em4000small	co=8	i=2	time=1460
+
+em4000small	co=12	i=1	time=3985
+em4000small	co=11	i=1	time=3853
+em4000small	co=10	i=1	time=3399
+em4000small	co=9	i=1	time=2697
+em4000small	co=8	i=1	time=1907
+
+em4500small	co=12	i=3	time=852
+em4500small	co=11	i=3	time=772
+em4500small	co=10	i=3	time=717
+em4500small	co=9	i=3	time=712
+em4500small	co=12	i=3	time=837
+em4500small	co=8	i=3	time=707
+em4500small	co=11	i=3	time=775
+em4500small	co=10	i=3	time=728
+em4500small	co=9	i=3	time=712
+
+em4500small	co=12	i=2	time=1914
+em4500small	co=11	i=2	time=1723
+em4500small	co=10	i=2	time=1660
+em4500small	co=9	i=2	time=1625
+em4500small	co=8	i=2	time=1607
+
+em4500small	co=8	i=1	time=2068
+em4500small	co=12	i=1	time=4456
+em4500small	co=11	i=1	time=4227
+em4500small	co=12	i=1	time=4459
+em4500small	co=10	i=1	time=3684
+em4500small	co=9	i=1	time=2629
+em4500small	co=11	i=1	time=4214
+em4500small	co=8	i=1	time=2055
+em4500small	co=10	i=1	time=3656
+em4500small	co=9	i=1	time=2622
+
+em5000small	co=50	i=3	time=4974
+em5000small	co=12	i=3	time=1983
+em5000small	co=40	i=3	time=4974
+em5000small	co=30	i=3	time=4974
+em5000small	co=20	i=3	time=4974
+em5000small	co=12	i=3	time=1962
+
+em5000small	co=12	i=2	time=2029
+em5000small	co=11	i=2	time=1910
+em5000small	co=10	i=2	time=1878
+em5000small	co=9	i=2	time=1793
+
+em5000small	co=10	i=1	time=3912
+em5000small	co=12	i=1	time=4902
+em5000small	co=11	i=1	time=4572
+em5000small	co=11	i=1	time=4567
+em5000small	co=9	i=1	time=2610
+em5000small	co=12	i=1	time=4898
+em5000small	co=10	i=1	time=3820
+em5000small	co=8	i=1	time=2261
+em5000small	co=9	i=1	time=2610
+em5000small	co=8	i=1	time=2226
+
+em5000small	co=12	i=3	time=2013
+em5000small	co=8	i=2	time=1789
+
+em4500small	co=8	i=3	time=687
+
+em5000small	co=10	i=3	time=1781
+em5000small	co=10	i=3	time=1793
